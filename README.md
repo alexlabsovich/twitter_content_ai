@@ -1,4 +1,4 @@
-# Twitter Thread AI Generator
+# Twitter Thread&Article AI Generator
 
 An AI-powered tool that helps you generate engaging Twitter threads using OpenRouter AI. Simply input your topic and preferred tone, and get a well-structured thread optimized for Twitter.
 
