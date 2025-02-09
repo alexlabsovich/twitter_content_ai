@@ -24,8 +24,9 @@ An AI-powered tool that helps you generate engaging Twitter threads using OpenRo
    - Copy your API key
 
 4. Set up environment variables:
-   - Copy `.env.example` to `.env`
-   - Replace `your_openrouter_api_key_here` with your actual OpenRouter API key (without "")
+   - Create '.env' file in twitter_thread_ai
+   - Add in '.env' file - OPENROUTER_API_KEY=YOUR_API_KEY
+   - Save it
 
 ## Running the Application
 
